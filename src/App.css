@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+
+.red {
+  color : red;
+}
+
+.green {
+  color: green;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* @media (min-width : 500px) */
